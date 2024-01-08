@@ -1,5 +1,7 @@
 # Linux Kernel Tracing Project
 
+[Coroot Node Agent GitHub Repository](https://github.com/coroot/coroot-node-agent)
+
 This project implements a Linux kernel tracing mechanism that monitors file-related system calls, specifically focusing on the `open` and `openat` calls. The tracing is designed to filter out events associated with specific file paths like `/proc/`, `/dev/`, and `/sys/`.
 
 ## Table of Contents
